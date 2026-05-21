@@ -1,0 +1,17 @@
+# Core Django
+Django==6.0.4
+
+# Django REST Framework — API + Token Authentication
+djangorestframework
+
+# CORS headers — allow React frontend to call the API
+django-cors-headers
+
+# PostgreSQL adapter
+psycopg2-binary
+
+# .env file support
+python-dotenv
+
+# Pillow — required for ImageField (product images)
+Pillow
